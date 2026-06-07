@@ -1,7 +1,7 @@
 {
   "name": "THUGVILLE AFK",
   "bot-account": {
-    "username": "THUGVILLE BOT",
+    "username": "THUGVILLE_BOT",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "IAM FOR FOR 24/7 FOR YOU",
+        "Subscribe to DIPTOE GAMER ON YOUTUBE!",
+        "MAAN MEIN JOH AYE WOH KRO SMP MEIN !"
       ]
     },
     "chat-log": true,
